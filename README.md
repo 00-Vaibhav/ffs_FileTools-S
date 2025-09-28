@@ -25,8 +25,7 @@
 ### 📈 **Results**
 - **Real-Time Preview**: See your data before processing
 - **Detailed Reports**: Comprehensive validation results
-- **CSV Export**: Share results with your team
-- **Modern UI**: Clean, professional interface
+- **Excel/CSV Export**: Share results with your team
 
 ---
 
@@ -46,7 +45,7 @@ Access the file matching functionality through the File Operations dialog:
    ![02](https://github.com/user-attachments/assets/cbdad866-c678-4b68-8873-1b3dc13f9f8e)
    
 6. **Review Results**: View detailed results showing which files exist and which are missing
-7. **Export Results**: Save results to CSV for further analysis
+7. **Export Results**: Save results to Excel for further analysis
    
    ![03](https://github.com/user-attachments/assets/ebb4c8b6-fe91-471f-ab74-5414c7d6ff7f)
 
